@@ -9,25 +9,25 @@ const About = () => {
 
   const team = [
     {
-      name: "Sarah Johnson",
+      name: "Rohit Vargee",
       role: "Chief Executive Officer",
       image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80",
       linkedin: "#",
     },
     {
-      name: "Michael Chen",
+      name: "John Smith",
       role: "Chief Technology Officer",
       image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=400&q=80",
       linkedin: "#",
     },
     {
-      name: "Emily Rodriguez",
+      name: "Ocean Sharma",
       role: "Head of Operations",
       image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=400&q=80",
       linkedin: "#",
     },
     {
-      name: "David Kim",
+      name: "David Willy",
       role: "Lead Developer",
       image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=400&q=80",
       linkedin: "#",
